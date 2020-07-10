@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is João Paulo (👨🏻‍💻 ) and I am a Front-end Developer and UI Designer from Brazil, based in Curitiba (🇧🇷 ).
+
+I like working as freelancer, solving problems with Design and making great ideas happen. I love sharing the knowledge that I have gained from my experience with other people. When I am not developing websites I like to produce electronic music (🎛️ ), play some records (🎧 ) and practice sports (🏃🏻‍♂️ ).
+
+You can find me on Twitter [@jpf909](https://twitter.com/jpf909/) and, if you're interested in my professional experience, please have a look at my links below or drop me a message.
+
+(🕸️ ) https://linktr.ee/jpcmf
+
+(#️⃣ ) Keys: Desenvolvedor Front-end, Front-end Developer, UI Front-end Developer, Designer, Web Designer, Full Stack Designer 
+
 <!--
 **jpcmf/jpcmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
