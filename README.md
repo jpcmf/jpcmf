@@ -4,7 +4,7 @@
 
 My name is João Paulo (👨🏻‍💻 ) and I am a Front-end Developer and UI Designer from Brazil, based in Curitiba (🇧🇷 ).
 
-I like working as freelancer, solving problems with Design and making great ideas happen. I love sharing the knowledge that I have gained from my experience with other people. When I am not developing websites I like to produce electronic music (🎛️ ), play some records (🎧 ) and practice sports (🏃🏻‍♂️ ).
+I like to work as a freelancer, solving problems with Design and making great ideas happen. I love to share knowledge that I have gained from my experience with other people. When I am not developing websites I like to produce electronic music (🎛️ ), play some records (🎧 ) and practice sports (🏃🏻‍♂️ ).
 
 You can find me on Twitter and, if you're interested in my professional experience, please have a look at my links below or drop me a message.
 
