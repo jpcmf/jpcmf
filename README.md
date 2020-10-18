@@ -8,6 +8,15 @@ I like to work as a freelancer, solving problems with Design and making great id
 
 You can find me on Twitter and, if you're interested in my professional experience, please have a look at my links below or drop me a message.
 
+### Stats 📈
+
+<table border="0">
+ <tr>
+    <td style="border:0;"><img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=jpcmf&show_icons=true&theme=react" /></td>
+    <td style="border:0;"><img width="480px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcmf&hide=html&layout=compact&theme=react" /></td>
+ </tr>
+</table>
+
 [![Medium Badge](https://img.shields.io/badge/medium.com-%40jpcmf-black)](https://medium.com/@jpcmf)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-linktr.ee/jpcmf-blue)](https://linktr.ee/jpcmf)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jpf909)](https://twitter.com/jpf909)
