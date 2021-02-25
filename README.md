@@ -25,3 +25,5 @@ You can find me on [Twitter](https://twitter.com/jpf909) and, if you're interest
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo80)](https://www.linkedin.com/in/joaopaulo80)
 
 (#️⃣ ) Keys: Desenvolvedor Front-end, Front-end Developer, UI Front-end Developer, Digital Designer, Web Designer, Full Stack Designer, Software Developer
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jpcmf.jpcmf)
