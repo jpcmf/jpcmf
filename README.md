@@ -1,10 +1,10 @@
 <img align="right" style="padding: 20px" src=".github/coding_.svg" width="300"/>
 
-### Hi there 👋
+### Hi there 👋👨🏻‍💻🇧🇷
 
-My name is João Paulo Fricks (👨🏻‍💻 ) and I am a Front-end Developer and Digital Designer from Brazil, based in Curitiba (🇧🇷 ).
+My name is João Paulo Fricks and I am a Front-end Developer and Digital Designer from Brazil, based in Curitiba.
 
-I like to work as a freelancer, solving problems with Design and making great ideas happen. I love to share knowledge that I have gained from my experience with other people. When I am not developing websites I like to produce electronic music (🎛️ ), play some records (🎧 ) and practice sports (🏃🏻‍♂️ ).
+I like to work as a freelancer, solving problems with Design and making great ideas happen. I love to share knowledge that I have gained from my experience with other people. When I am not developing websites I like to 🎛️ produce electronic music, 🎧 play some records and practice :skateboard: :running_man: sports.
 
 You can find me on [Twitter](https://twitter.com/coda__joao) and, if you're interested in my professional experience, please have a look at my links below or drop me a message.
 
