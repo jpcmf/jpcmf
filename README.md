@@ -10,20 +10,18 @@ You can find me on [Twitter](https://twitter.com/coda__joao) and, if you're inte
 
 ### 📈 Stats
 
-<table border="0">
- <tr>
-    <td style="border:0;"><img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=jpcmf&show_icons=true&theme=react" /></td>
-    <td style="border:0;"><img width="480px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcmf&hide=html&layout=compact&theme=react" /></td>
- </tr>
-</table>
+<div>
+<a><img height="195px" src="https://github-readme-stats.vercel.app/api?username=jpcmf&show_icons=true&theme=react" /></a>
+<a><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcmf&hide=html&layout=compact&theme=react" /></a>
+</div>
 
 ### 🐙 Links
 
-[![Medium Badge](https://img.shields.io/badge/medium.com-%40jpcmf-black)](https://medium.com/@jpcmf)
-[![Linktree Badge](https://img.shields.io/badge/Linktree-linktr.ee/jpcmf-blue)](https://linktr.ee/jpcmf)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/coda__joao)](https://twitter.com/coda__joao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo80)](https://www.linkedin.com/in/joaopaulo80)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/coda__joao)](https://twitter.com/coda__joao)
+[![Linktree Badge](https://img.shields.io/badge/Linktree-linktr.ee/jpcmf-blue)](https://linktr.ee/jpcmf)
+[![Medium Badge](https://img.shields.io/badge/medium.com-%40jpcmf-black)](https://medium.com/@jpcmf)
 
-(#️⃣ ) Keys: Desenvolvedor Front-end, Front-end Developer, UI Front-end Developer, Digital Designer, Web Designer, Full Stack Designer, Software Developer
+(#️⃣ ) Keys: Desenvolvedor Front-end, Front-end Developer, Front-end Engineer, UI Front-end Developer, Digital Designer, Web Designer, Full Stack Designer, Software Developer, Software Engineer
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jpcmf.jpcmf)
