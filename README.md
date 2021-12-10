@@ -1,6 +1,6 @@
 <img align="right" style="padding: 20px" src=".github/coding_.svg" width="300"/>
 
-### Hi there 👋👨🏻‍💻🇧🇷
+## Hi there 👋👨🏻‍💻🇧🇷
 
 My name is João Paulo Fricks and I am a Front-end Developer and a Digital Designer from Brazil, based in Curitiba.
 
@@ -8,14 +8,14 @@ I like to work as a developer, solving problems with Design, programming and mak
 
 You can find me on [Twitter](https://twitter.com/coda__joao) and, if you're interested in my professional experience, please have a look at my links below or drop me a private message.
 
-### 📈 Stats
+## 📈 Stats
 
 <div>
 <a><img height="195px" src="https://github-readme-stats.vercel.app/api?username=jpcmf&show_icons=true&theme=react" /></a>
 <a><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcmf&hide=html&layout=compact&theme=react" /></a>
 </div>
 
-### 🐙 Links
+## 🐙 Links
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo80)](https://www.linkedin.com/in/joaopaulo80)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/coda__joao)](https://twitter.com/coda__joao)
