@@ -10,9 +10,9 @@ You can find me on [Twitter](https://twitter.com/coda__joao) and, if you're inte
 
 ### 📈 Stats
 
-<div style="display: inline_block">
-  <img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpcmf&show_icons=true&theme=react" />
-  <img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcmf&hide=html&layout=compact&theme=react" />
+<div>
+  <a><img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpcmf&show_icons=true&theme=react" /></a>
+  <a><img width="480px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcmf&hide=html&layout=compact&theme=react" /></a>
 </div>
 
 ### 🐙 Links 
