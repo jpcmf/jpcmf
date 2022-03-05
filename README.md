@@ -6,7 +6,7 @@ My name is João Paulo Fricks and I am a Front-end Developer and a Digital Desig
 
 I like to work as a developer, solving problems with Design, programming and making great ideas happen. I love to share knowledge that I have gained from my experience with other people. When I am not developing software I like to stay with my family, 🦮 walk with my dog, 🎛️ produce electronic music, 🎧 play some records and practice :skateboard: :running_man: sports.
 
-You can find me on [Twitter](https://twitter.com/coda__joao) and, if you're interested in my professional experience, please have a look at my links below or drop me a private message.
+You can find me on [Twitter](https://twitter.com/coda__joao) and, if you're interested in my professional experience, please have a look at my [Storyfolio](https://storyfolio-remix.netlify.app/) or drop me a private message.
 
 ### 📈 Stats
 
