@@ -2,9 +2,9 @@
 
 ### Hi there 👋👨🏻‍💻:skateboard:🏃🏻‍♂️🇧🇷
 
-My name is João Paulo Fricks and I am a Front-end Developer and a Digital Designer from Brazil, based in Curitiba.
+My name is João Paulo Fricks and I am a Software Developer and Designer from Brazil, based in Curitiba.
 
-I like to work as a developer, solving problems with Design, programming and making great ideas happen. I love to share knowledge that I have gained from my experience with other people. When I am not developing softwares I like to stay with my family, take a walk with my dog, produce electronic music, play some records and practice sports.
+I like to work as a developer, solving problems with codes, a good design/ux and making great ideas happen. I love to share knowledge that I have gained from my experience with other people. When I am not developing softwares I like to stay with my family, take a walk with my dog, produce electronic music, play some records and practice sports.
 
 You can find me on [Twitter](https://twitter.com/coda__joao) and, if you're interested in my professional experience, please have a look at my [Storyfolio](https://storyfolio-remix.netlify.app/) or drop me an email.
 
