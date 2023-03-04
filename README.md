@@ -1,12 +1,12 @@
 <img align="right" style="padding: 20px" src=".github/coding_.svg" width="300"/>
 
-### Hi there 👋👨🏻‍💻:skateboard:🏃🏻‍♂️🇧🇷
+### Hello!👋👨🏻‍💻:skateboard:🏃🏻‍♂️🇧🇷
 
-My name is João Paulo Fricks and I am a Software Developer and Designer from Brazil, based in Curitiba.
+My name is João Paulo Fricks, and I am a software developer and designer from Brazil, currently based in Curitiba.
 
-I like to work as a developer, solving problems with codes, a good design/ux and making great ideas happen. I love to share knowledge that I have gained from my experience with other people. When I am not developing softwares I like to stay with my family, take a walk with my dog, produce electronic music, play some records and practice sports.
+I enjoy working as a developer, using my skills in coding, design, and UX to solve problems and bring great ideas to life. Sharing knowledge and experience with others is also a passion of mine. When I'm not developing software, I like to spend time with my family, take walks with my dog, produce electronic music, play records, and practice sports.
 
-You can find me on [Twitter](https://twitter.com/coda__joao) and, if you're interested in my professional experience, please have a look at my [Storyfolio](https://storyfolio-remix.netlify.app/) or drop me an email.
+If you're interested in my professional experience, please have a look at my [LinkedIn](https://www.linkedin.com/in/joaopaulo80) or feel free to drop me an email. You can also find me on [Twitter](https://twitter.com/codajoao80).
 
 ### 📈 Stats
 
