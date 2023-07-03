@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/coding_.svg" width="300"/></p>
+<p align="center"><img src=".github/coding_new.svg" width="500"/></p>
 
 ### Hello!👋👨🏻‍💻🇧🇷
 
@@ -17,7 +17,7 @@ If you're interested in my professional experience, please have a look at my [Li
  </tr>
 </table>
 
-### 🐙 Links 
+### 🐙 Links
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo80)](https://www.linkedin.com/in/joaopaulo80)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codajoao80)](https://twitter.com/codajoao80)
