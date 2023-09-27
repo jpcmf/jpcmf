@@ -6,7 +6,7 @@ My name is João Paulo Fricks, and I am a software developer and designer from B
 
 I enjoy working as a developer, using my skills in coding, design, and UX to solve problems and bring great ideas to life. Sharing knowledge and experience with others is also a passion of mine. When I'm not developing software, I like to spend time with my family, take walks with my dog, produce electronic music, play records, and practice sports.
 
-If you're interested in my professional experience, please have a look at my [LinkedIn](https://www.linkedin.com/in/joaopaulo80) or feel free to drop me an email. You can also find me on [Twitter](https://twitter.com/codajoao80).
+If you're interested in my professional experience, please have a look at my [LinkedIn](https://www.linkedin.com/in/joaopaulo80) or feel free to drop me an email. You can also find me on [Linktree](https://linktr.ee/jpcmf).
 
 ### 📈 Stats
 
