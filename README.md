@@ -22,7 +22,6 @@ If you're interested in my professional experience, please have a look at my [Li
 [![Linktree Badge](https://img.shields.io/badge/Linktree-linktr.ee/jpcmf-blue)](https://linktr.ee/jpcmf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopaulo80)](https://www.linkedin.com/in/joaopaulo80)
 [![Medium Badge](https://img.shields.io/badge/medium.com-%40jpcmf-black)](https://medium.com/@jpcmf)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codajoao80)](https://twitter.com/codajoao80)
 
 Keys: Desenvolvedor Front-end, Front-end Developer, Front-end Engineer, UI Front-end Developer, Software Developer, Software Engineer, Full Stack Developer, Digital Designer, Web Designer, Full Stack Designer
 
