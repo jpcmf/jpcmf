@@ -1,5 +1,3 @@
-<p align="center"><img src=".github/coding_new.svg" width="500"/></p>
-
 ### Hello!👋👨🏻‍💻🇧🇷
 
 My name is João Paulo Fricks, and I am a software developer and designer from Brazil, currently based in Curitiba.
