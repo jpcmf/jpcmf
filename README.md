@@ -12,7 +12,7 @@ I maintain and develop the following projects, continuously creating new feature
 
 | Project | GitHub Repository  | Status  |
 | ------- | --- | --- |
-| [SkateHub](https://skatehub.vercel.app/) | [:link:](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024) | [![Build and Deploy](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml/badge.svg)](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml) |
+| [SkateHub](https://skatehub.vercel.app/) | [:link:](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024) | [![Build and Deploy](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml/badge.svg)](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml) ![Vercel Deploy](https://deploy-badge.vercel.app/vercel/reactions-demo?url=http://skatehub.vercel.app)  |
 | [Brazil Cities](https://brazil-cities-admin.vercel.app/) | [:link:](https://github.com/jpcmf/brazil-cities-admin) | --- |
 | [Blog - joaopaulo.codes](https://joaopaulocodes.netlify.app/) | [:link:]() | --- |
 
