@@ -10,9 +10,11 @@ If you're interested in my professional experience, please have a look at my **s
 
 I maintain and develop the following projects, continuously creating new features, testing, and implementing improvements. Many of these projects were born out of a desire to explore new techniques and technologies, and they serve as a way to learn something new every day. Think of this as my public lab—feel free to explore, provide feedback, or contribute if you'd like!
 
-- [SkateHub](https://skatehub.vercel.app/) | [GitHub repository](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024)
-- [Brazil Cities](https://brazil-cities-admin.vercel.app/) | [GitHub repository](https://github.com/jpcmf/brazil-cities-admin)
-- [Blog | joaopaulo.codes](https://joaopaulocodes.netlify.app/) | [GitHub repository]()
+| Project | GitHub Repository  | Status  |
+| ------- | --- | --- |
+| [SkateHub](https://skatehub.vercel.app/) | [:link:](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024) | [![Build and Deploy](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml/badge.svg?event=push)](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml) |
+| [Brazil Cities](https://brazil-cities-admin.vercel.app/) | [:link:](https://github.com/jpcmf/brazil-cities-admin) | --- |
+| [Blog - joaopaulo.codes](https://joaopaulocodes.netlify.app/) | [:link:]() | --- |
 
 ### Stats
 
