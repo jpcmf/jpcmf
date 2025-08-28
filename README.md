@@ -1,10 +1,10 @@
-### Hello!👋👨🏻‍💻🇧🇷
+### Hi!👋👨🏻‍💻🇧🇷
 
 My name is João Paulo Fricks, and I am a software developer and designer from Brazil, currently based in Curitiba.
 
 I enjoy working as a developer, using my skills in coding, design, and UX to solve problems and bring great ideas to life. Sharing knowledge and experience with others is also a passion of mine. When I'm not developing software, I like to spend time with my family, take walks with my dog, produce electronic music, play records, and practice sports.
 
-If you're interested in my professional experience, please have a look at my **side projects** or feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/joaopaulo80). You can also find me on [Linktree](https://linktr.ee/jpcmf).
+If you're interested in my professional experience, please have a look at my **side projects** or feel free to drop me a message on [LinkedIn](https://www.linkedin.com/in/joaopaulo80). You can also find me on [jpcmf.dev](https://jpcmf.dev).
 
 ### Side projects
 
