@@ -10,7 +10,7 @@ If you're interested in my professional experience, please have a look at my **s
 
 ### Side projects
 
-I maintain and develop the following projects, continuously creating new features, testing, and implementing improvements. Many of these projects were born out of a desire to explore new techniques and technologies, and they serve as a way to learn something new every day. Think of this as my public lab—feel free to explore, provide feedback, or contribute if you'd like!
+I maintain and develop the following projects, continuously creating new features, testing, and implementing improvements. Many of these projects were born out of a desire to explore new techniques and technologies, and they serve as a way to learn something new every day. Think of this as my public lab-feel free to explore, provide feedback, or contribute if you'd like!
 
 | Project | GitHub Repository  | Status  |
 | ------- | --- | --- |
