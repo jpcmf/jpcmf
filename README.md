@@ -14,9 +14,10 @@ I maintain and develop the following projects, continuously creating new feature
 
 | Project | GitHub Repository  | Status  |
 | ------- | --- | --- |
-| [SkateHub](https://skatehub.vercel.app/) | [:link:](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024) | [![Build and Deploy](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml/badge.svg)](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml) ![Vercel Deploy](https://deploy-badge.vercel.app/vercel/reactions-demo?url=http://skatehub.vercel.app)  |
-| [Brazil Cities](https://brazil-cities-admin.vercel.app/) | [:link:](https://github.com/jpcmf/brazil-cities-admin) | --- |
-| [Blog · jpcmf.dev](https://blog.jpcmf.dev) | --- | [![Netlify Status](https://api.netlify.com/api/v1/badges/0a8db8a4-b823-44a1-821b-2d80dbc0d323/deploy-status)](https://app.netlify.com/projects/joaopaulocodes/deploys) |
+| [SkateHub](https://skatehub.vercel.app/) | [https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024) | [![Build and Deploy](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml/badge.svg)](https://github.com/jpcmf/Frontend-GraduateProgram-FullStack-2024/actions/workflows/deploy.yaml) ![Vercel Deploy](https://deploy-badge.vercel.app/vercel/reactions-demo?url=http://skatehub.vercel.app)  |
+| [Brazil Cities](https://brazil-cities-admin.vercel.app/) | [https://github.com/jpcmf/brazil-cities-admin](https://github.com/jpcmf/brazil-cities-admin) | ![Vercel Deploy](https://deploy-badge.vercel.app/vercel/reactions-demo?url=http://brazil-cities-admin.vercel.app/) |
+| [Blog · jpcmf.dev](https://blog.jpcmf.dev) | private | [![Netlify Status](https://api.netlify.com/api/v1/badges/0a8db8a4-b823-44a1-821b-2d80dbc0d323/deploy-status)](https://app.netlify.com/projects/joaopaulocodes/deploys) |
+| [Portfolio · jpcmf.dev](https://jpcmf.dev) | private | ![Vercel Deploy](https://deploy-badge.vercel.app/vercel/reactions-demo?url=http://jpcmf.dev) |
 
 ### Stats
 
